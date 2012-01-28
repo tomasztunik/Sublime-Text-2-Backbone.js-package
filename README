@@ -1,0 +1,18 @@
+
+http://backbonejs.org snippets and tab completions for http://www.sublimetext.com/2
+
++ covers tab completions for full 0.5.3 public API
++ adds few convenience snippets
+
+bd - Module definition (requirejs)
+bv - Backbone.View.extend({$1})
+bm - Backbone.Model.extend({$1})
+bc - Backbone.Collection.extend({$1})
+bc - Backbone.Router.extend({$1})
+
+to install just clone/copy to your Sublime Text 2 packages folder
+
+
+any requests to add more snippets? ideas to make it better? random requests? just ping me!
+
+(used to build the www.wunderkit.com)
