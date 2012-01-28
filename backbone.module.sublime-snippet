@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+define([${1:dependencies}], function(${2:params}) {
+   
+    var ${3:name} = ${4:type}
+   
+    return ${3:name}; 
+});
+]]></content>
+    <tabTrigger>bd</tabTrigger>
+    <scope>source.js,source.js.embedded.html</scope>
+    <description>Backbone requirejs Module definition</description>
+</snippet>

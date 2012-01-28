@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Backbone.Model.extend({${0:properties}});
+]]></content>
+    <tabTrigger>bm</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone Model</description>
+</snippet>
