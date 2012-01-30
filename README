@@ -1,6 +1,6 @@
 http://backbonejs.org snippets and tab completions for http://www.sublimetext.com/2
 
-+ covers tab completions for full 0.5.3 public API
++ covers tab completions for full 0.9 public API (also fully covers 0.5.3)
 + adds few convenience snippets
 
 bd - Module definition (requirejs)
