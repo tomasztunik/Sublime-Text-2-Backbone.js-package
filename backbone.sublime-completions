@@ -39,6 +39,9 @@
                 "changedAttributes",
                 "previous",
                 "previousAttributes",
+                "wait",
+                "silent",
+                "unset",
 
                 "Collection",
                 "add",
@@ -82,10 +85,14 @@
                 "lastIndexOf", 
                 "isEmpty", 
                 "groupBy",
+                "shuffle",
+                "initial",
+                "comparator",
 
                 "Router",
                 "route",
                 "navigate",
+                "replace",
 
                 "View",
                 "render",
@@ -96,7 +103,9 @@
                 "tagName",
                 "id",
                 "el",
+                "$el",
                 "events",
+                "setElement",
 
                 "History",
                 "history",
