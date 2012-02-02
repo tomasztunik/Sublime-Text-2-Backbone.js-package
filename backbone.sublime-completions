@@ -11,6 +11,7 @@
                 "sync",
                 "model",
                 "collection",
+                "setDomLibrary",
 
                 "Events",
                 "bind",
@@ -42,6 +43,8 @@
                 "wait",
                 "silent",
                 "unset",
+                "validate",
+                "isValid",
 
                 "Collection",
                 "add",
