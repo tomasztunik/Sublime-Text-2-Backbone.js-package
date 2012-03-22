@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+define [ ${1:dependencies} ], (${2:params}) ->
+  ${3:name} = ${4:type}
+  ${3:name}
+]]></content>
+    <tabTrigger>bd</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Backbone requirejs Module definition</description>
+</snippet>
