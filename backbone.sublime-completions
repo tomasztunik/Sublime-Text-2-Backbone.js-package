@@ -37,6 +37,7 @@
                 "clone",
                 "isNew",
                 "change",
+                "changed",
                 "hasChanged",
                 "changedAttributes",
                 "previous",
@@ -46,6 +47,7 @@
                 "unset",
                 "validate",
                 "isValid",
+                "wait",
 
                 "Collection",
                 "add",
@@ -92,6 +94,11 @@
                 "shuffle",
                 "initial",
                 "comparator",
+                "push",
+                "pop",
+                "unshift",
+                "shift",
+                "where",
 
                 "Router",
                 "route",
