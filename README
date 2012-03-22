@@ -3,11 +3,19 @@ http://backbonejs.org snippets and tab completions for http://www.sublimetext.co
 + covers tab completions for full 0.9 public API (also fully covers 0.5.3)
 + adds few convenience snippets
 
+JavaScript Scope
 bd - Module definition (requirejs)
 bv - Backbone.View.extend({$1})
 bm - Backbone.Model.extend({$1})
 bc - Backbone.Collection.extend({$1})
 br - Backbone.Router.extend({$1})
+
+CoffeeScript Scope
+bd - Module definition (requirejs)
+bv - Backbone.View
+bm - Backbone.Model
+bc - Backbone.Collection
+br - Backbone.Router
 
 Available from Sublime Package Control default channel (http://wbond.net/sublime_packages/package_control)
 or to install manually just clone/copy to your Sublime Text 2 packages folder
