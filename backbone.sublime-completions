@@ -12,6 +12,7 @@
                 "model",
                 "collection",
                 "setDomLibrary",
+                "__super__",
 
                 "Events",
                 "bind",
@@ -114,6 +115,11 @@
                 "history",
 
                 "require",
-                "define"
+                "define",
+
+                "arguments",
+                "prototype",
+                "var",
+                "this"
         ]
 }
