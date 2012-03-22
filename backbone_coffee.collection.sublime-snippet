@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Backbone.Collection
+]]></content>
+    <tabTrigger>bc</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Backbone Collection</description>
+</snippet>
