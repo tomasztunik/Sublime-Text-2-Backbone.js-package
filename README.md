@@ -23,6 +23,10 @@
     bm - Backbone.Model  
     bc - Backbone.Collection  
     br - Backbone.Router  
+    
+Additional CoffeeScript Snippets available at [dougrdotnet/Sublime-Text-2-Backbone.js-Coffee](https://github.com/dougrdotnet/Sublime-Text-2-Backbone.js-Coffee)    
+
+---
 
 Available from [Sublime Package Control](http://wbond.net/sublime_packages/package_control) default channel or if you prefer to install manually just clone/copy to your Sublime Text 2 packages folder
 
@@ -30,5 +34,5 @@ Available from [Sublime Package Control](http://wbond.net/sublime_packages/packa
 Any requests to add more snippets? ideas to make it better? random requests? just ping me or open a pull request straight away.
 
 
-CoffeScript support added by @dougrdotnet
+CoffeScript support added by @[dougrdotnet](https://github.com/dougrdotnet/)
   
