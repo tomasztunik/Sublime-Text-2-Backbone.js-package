@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[Backbone.View.extend({
+	events: {
+
+	},
+	initialize: function(options) {
+		${0}
+	},
+	render: function() {
+
+	}
+});]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bve</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Backbone View Extended</description>
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+Backbone.Router.extend({
+	routes: {
+		"*action":"defaultAction",
+	},
+	initialize: function(options) {
+		${0}
+	},
+	defaultAction: function(action) {
+
+	}
+});]]></content>
+    <tabTrigger>bre</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone Router Extended</description>
+</snippet>
