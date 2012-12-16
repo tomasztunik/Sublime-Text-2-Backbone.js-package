@@ -4,7 +4,7 @@
 ----
 
 + suports both JavaScript and CoffeScript
-+ covers tab completions for full 0.9 public API
++ covers tab completions for full 0.9.9 public API
 + adds few convenience snippets
 
 
