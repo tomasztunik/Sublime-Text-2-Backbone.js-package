@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+Backbone.Collection.extend({
+	model: ${0:model},
+	initialize: function(options) {
+
+	}
+});
+]]></content>
+    <tabTrigger>bce</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone Collection Extended</description>
+</snippet>

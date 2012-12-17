@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[Backbone.Model.extend({
+	defaults: function() {
+		return {
+			${0}
+		};
+	},
+	initialize: function(options) {
+
+	}
+});]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bme</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Backbone Model Extended</description>
+</snippet>
